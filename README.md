@@ -2,7 +2,7 @@
 
 As a capstone project from masters in data science program at Seattle University, we worked with Camp Korey is a non-profit organization that works for the empowerment of children with a wide range of life-altering medical conditions. 
 
-We helped the organization with donor database analysis and predicting donor scores. Below are the main analysis conducted:
+This project helped the organization with donor database analysis and predicting donor scores. Below are the main analysis conducted:
 
 1. Identifying donors with mission contact information
 2. Analysis on gift growth trends over last three years(2020-2022)
